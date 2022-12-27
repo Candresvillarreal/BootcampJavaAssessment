@@ -1,0 +1,10 @@
+.thTableCustomers{
+    font-weight: normal;
+}
+.tdTableCustomers{
+    font-weight: bold;
+    font-size: 24px;
+}
+.h1TableCustomers{
+    border-bottom: 3px solid black;
+}
